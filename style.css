@@ -96,7 +96,6 @@ a + a {
 
 .imageFooter {
   width: 100vw;
-  bottom: 0;
   left: 0;
 
   z-index: -999;
